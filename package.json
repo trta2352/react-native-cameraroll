@@ -41,6 +41,9 @@
     "react": "16 || 17",
     "react-native": ">=0.60"
   },
+  "dependencies": {
+     "fbjs": "^1.0.0"
+   },
   "devDependencies": {
     "@babel/core": "^7.9.6",
     "@babel/runtime": "^7.9.6",
